@@ -3,4 +3,4 @@ project(c C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(c main.c Base00HelloWorld.h)
+add_executable(c main.c Base00.h Base00.c Base01.c Base01.h)
